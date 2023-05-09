@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.pr{
+    border-radius: 2rem;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    background-image: url("https://wallpaperaccess.com/full/4545909.jpg");
+    height:100vh;
+    width: 100vw;
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+.na{
+    margin-top: 8vh;
+    margin-right: 58vw;
+    margin-left: 10vw;
+    color: rgb(39, 23, 133);
+    font-family: 'Bruno Ace', cursive;
+    font-size: 30pt;
+}
+.pp{
+    background-image: url("https://media.istockphoto.com/id/844027508/photo/fire-letter-a-of-burning-flame.jpg?s=612x612&w=0&k=20&c=qhEeLNB-tOVc704rSUpDOOXMFTs4FU9TAgClrw-Uzvg=");
+    height: 70vh;
+    width: 30vw;
+    margin-left: 8vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3rem;
+}
+.bo{
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* margin-top: 9vh; */
+    background-image: url("https://images.hdqwalls.com/download/minimal-landscape-sunrise-4k-jy-1360x768.jpg");
+    height:100vh;
+    width: 100vw;
+   background-size: cover;
+    background-repeat: no-repeat;
+}
+.bo .it{
+    margin-top: 7vh;
+    margin-right: 70vw;
+    color: rgb(255, 0, 242);
+    font-size: 22pt;
+    font-family: 'Lobster', cursive;
+}
